@@ -6,3 +6,7 @@ Respositorio de test
 Cuerpo de la descripción
 
 Más texto.
+
+Y otra línea más añadida en local.
+
+Otra línea local.
